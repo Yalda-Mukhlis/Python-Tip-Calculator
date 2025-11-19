@@ -1,2 +1,2 @@
 # Python-Tip-Calculator
-Beginner-level Python project from the 100 Days of Code course. Focused on basic input, string manipulation, and generating randomized outputs.
+A simple and beginner-level Python project that calculates how to split a bill with a chosen tip percentage. Focuses on practicing basic inputs, calculations, and clear program flow.
